@@ -131,15 +131,19 @@ justify-content: space-around;
 }
 
 .chld6:hover{
+     transition: .2s;
       border: 2px solid white;
     box-shadow: 0 0 50px white;}
     .chld5:hover{
+         transition: .2s;
         border: 2px solid white;
         box-shadow: 0 0 50px white;}
         .chld4:hover{
+             transition: .2s;
             border: 2px solid white;
             box-shadow: 0 0 50px white;}
             .chld3:hover{
+                 transition: .2s;
                 border: 2px solid white;
                 box-shadow: 0 0 50px white;
          }
